@@ -5,6 +5,7 @@ Este projeto está estruturado com os assuntos relacionados às estruturas de re
 # Aulas
 
 *[Aula 1 - for ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-repeticao/commit/a89b16cc3ec82532eeb96be67e679f144b026e28)* 
+
 *[Aula 2 - while ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-repeticao/commit/ff7c95eb665641654eca571948530d042204bf5d)* 
 
 
