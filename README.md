@@ -2,12 +2,12 @@
 
 Este projeto está estruturado com os assuntos relacionados às estruturas de repetição e os seus respectivos comendos na Linguagem de Programação C.
 
-**Aulas**
+# Aulas
 
 *[Aula 1 - for ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-repeticao/commit/a89b16cc3ec82532eeb96be67e679f144b026e28)* 
 
 
-# Organização do projeto
+## Organização do projeto
 
 Neste repositório iremos manter todos os códigos desenvolvidos nas aulas sobre estruturas de repetição. Dessa forma, é necessário observar que os códigos referem-se a determinada estrutura. Por exemplo, em nossa primeira aula estudamos a estrutura `for` e construimos oito algoritmos (`exemplo-01.c` até o `exemplo-08.c`).
 
