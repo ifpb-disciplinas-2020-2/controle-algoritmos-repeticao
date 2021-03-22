@@ -5,11 +5,12 @@ Este projeto está estruturado com os assuntos relacionados às estruturas de re
 # Aulas
 
 *[Aula 1 - for ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-repeticao/commit/a89b16cc3ec82532eeb96be67e679f144b026e28)* 
+*[Aula 2 - while ](https://github.com/ifpb-disciplinas-2020-2/controle-algoritmos-repeticao/commit/ff7c95eb665641654eca571948530d042204bf5d)* 
 
 
 ## Organização do projeto
 
-Neste repositório iremos manter todos os códigos desenvolvidos nas aulas sobre estruturas de repetição. Dessa forma, é necessário observar que os códigos referem-se a determinada estrutura. Por exemplo, em nossa primeira aula estudamos a estrutura `for` e construimos oito algoritmos (`exemplo-01.c` até o `exemplo-08.c`).
+Neste repositório iremos manter todos os códigos desenvolvidos nas aulas sobre estruturas de repetição. Dessa forma, é necessário observar que os códigos referem-se a determinada estrutura. Por exemplo, em nossa primeira aula estudamos a estrutura `for` e construimos oito algoritmos (`exemplo-01.c` até o `exemplo-08.c`), todos na pasta [comando-for](/comando-for).
 
 Na pasta [atividades](/atividades) temos a nossa quarta lista de exercício. Desenvolva, para cada item, um algoritmo correspondente.
 Os arquivos devem ser compiláveis (sem problemas para compilar) e atenderem ao solicitado em cada questão.
