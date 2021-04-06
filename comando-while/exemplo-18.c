@@ -10,7 +10,7 @@ int main(){
   int numero, contador=1;
   printf("Digite um número: ");
   scanf("%d", &numero);
-  while (numero > 10){ //123, resto: 3, quociente: 12
+  while (numero >= 10){ //123, resto: 3, quociente: 12
     contador++;
     numero = numero / 10 ;//2  
   }
